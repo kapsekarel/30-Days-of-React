@@ -154,3 +154,4 @@ console.log(itCompanies) // removed "Amazon"
 itCompanies = ["Facebook", "Google", "Microsoft", "Apple", "IBM", "Oracle", "Amazon"]
 let emptyArr = itCompanies.splice(itCompanies.length)
 console.log("empty:", emptyArr)
+
